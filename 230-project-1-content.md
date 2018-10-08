@@ -30,7 +30,7 @@ There will be a separate instructional scene giving a quick overview on how the 
 There is no way of actually beating the game. The goal is to survive the longest amount of time without getting hit by the falling liquids. Some potential powerups include faster movement, mini umbrella that acts as an invincibility powerup that helps protect the spider from the dangerous liquids above. Some strategies I recommend is being aware of the dangers that will fall upon the player, and reacting quickly enough to avoid them. This is because overtime, it will get faster, and more liquids will start to pour from above.
 
 ## Screenshots
-![]()
+![tutorial](https://imgur.com/a/a4nYopV)
 ![]()
 ![]()
 ![]()
